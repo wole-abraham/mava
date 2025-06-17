@@ -1,0 +1,12 @@
+
+Geographical Co-ordinate system uses 3 dimensional spherical surfaces to define locations on Earth
+-> co-ordinates are given as latitude and longitude
+
+-> units: degree (decimal degree or degrees, minutes, second)
+
+-> good for global data but no suitable for precise distance or area measurements
+
+Projected Co-ordinate system (PCS) is flat 2D representation of the earth, derived by projecting geographic co-ordinate onto a plane
+
+-> coverts lat and log into x,y co-ordinate
+-> suitable for measuring distances, areas and mapping at local/regional scales
